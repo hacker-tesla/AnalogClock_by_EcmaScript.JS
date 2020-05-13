@@ -1,2 +1,2 @@
-# _Analog _Clock
+# Analog Clock
 An analog clock by EcmaScript(JavaScript)
